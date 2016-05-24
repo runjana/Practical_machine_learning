@@ -1,4 +1,4 @@
-PracticalMachineLearning_2014
+PracticalMachineLearning
 =============================
 
 Course Project for Practical Machine Learning on Coursera
